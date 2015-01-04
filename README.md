@@ -1,3 +1,3 @@
-Just a Public ChatRoom based oh Php and Javascript.
-Users need to register to it in order to enter chatroom.
-It also has list of online users who are currently active in the chatRoom.
+Just a Public ChatRoom based written in Php , Javascript and HTML.
+Register feature for Users to to enter chatroom.
+Displays a  list of online users who are currently active in the chatRoom.
